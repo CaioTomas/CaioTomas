@@ -20,12 +20,12 @@ You can view my [LinkedIn profile](https://www.linkedin.com/in/caiotomas/?locale
 
 ### Olá! Meu nome é Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Atualmente sou estudante de graduação em Matemática na Universidade de Brasília e um estagiário de Data Science no IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados.
+Atualmente sou estudante de graduação em Matemática na Universidade de Brasília e estagiário de Data Science no IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados.
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido:
 
-- 🔭 Atualmente trabalho com Python e Matemática
-- 🌱 Atualmente estou aprendendo muito Python, R e Matemática
+- 🔭 Estou trabalhando com Python e Matemática
+- 🌱 Estou aprendendo muito Python, R e Matemática
 - 🤝🏼 Busco colaborar em qualquer coisa que envolva Matemática
 - 💬 Me pergunte qualquer coisa!
 - 📫 Como me contatar: [Email](caiotomas6@gmail.com)
