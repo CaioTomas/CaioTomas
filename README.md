@@ -26,7 +26,7 @@ Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar f
 
 - 🔭 Trabalho com Matemática, Python e R
 - 🌱 Estou aprendendo muito Python, R e Matemática
-- 🤝🏼 Busco colaborar em qualquer coisa que envolva Matemática
+- 🤝🏼 Busco colaborar em tudo que envolva Matemática
 - 💬 Me pergunte qualquer coisa!
 - 📫 Como me contatar: [Email](caiotomas6@gmail.com)
 
