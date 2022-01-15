@@ -10,7 +10,7 @@ I'm really passionated about math and science. If you let me, I'll speak hours n
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email](caiotomas6@gmail.com)
 
-You can also view my [LinkedIn profile](https://www.linkedin.com/in/caiotomas/?locale=en_US) (in English).
+You can view my [LinkedIn profile](https://www.linkedin.com/in/caiotomas/?locale=en_US) (in English) and my [curriculum Lattes](http://lattes.cnpq.br/3803046005556999).
 
 ------------------------------------------------------
 
@@ -26,6 +26,6 @@ Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar f
 - 💬 Me pergunte qualquer coisa!
 - 📫 Como me contatar: [Email](caiotomas6@gmail.com)
 
-Você também pode ver o meu [perfil no LinkedIn](https://www.linkedin.com/in/caiotomas/) (em Português).
+Você pode ver o meu [perfil no LinkedIn](https://www.linkedin.com/in/caiotomas/) (em Português) e o meu [currículo Lattes](http://lattes.cnpq.br/3803046005556999).
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTomas&layout=compact&theme=highcontrast'>
