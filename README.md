@@ -24,7 +24,7 @@ Atualmente sou estudante de graduação em Matemática na Universidade de Brasí
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido:
 
-- 🔭 Estou trabalhando com Python e Matemática
+- 🔭 Trabalho com Matemática, Python e R
 - 🌱 Estou aprendendo muito Python, R e Matemática
 - 🤝🏼 Busco colaborar em qualquer coisa que envolva Matemática
 - 💬 Me pergunte qualquer coisa!
