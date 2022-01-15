@@ -4,8 +4,8 @@ I am currently a undergraduate student of Mathematics at the University of Bras�
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with:
 
-- 🔭 I’m currently working on Python and Math
-- 🌱 I’m currently learning lots of Math, Python and R
+- 🔭 I’m currently working on Math, LaTeX and Python
+- 🌱 I’m currently learning lots of Math, LaTeX, Python and R
 - 🤝🏼 I’m looking to collaborate on anything that involves at least a little bit of math
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email](caiotomas6@gmail.com)
@@ -24,8 +24,8 @@ Atualmente sou estudante de graduação em Matemática na Universidade de Brasí
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido:
 
-- 🔭 Trabalho com Matemática, Python e R
-- 🌱 Estou aprendendo muito Python, R e Matemática
+- 🔭 Trabalho com Matemática, LaTeX, Python e R
+- 🌱 Estou aprendendo muito Python, LaTeX, R e Matemática
 - 🤝🏼 Busco colaborar em tudo que envolva Matemática
 - 💬 Me pergunte qualquer coisa!
 - 📫 Como me contatar: [Email](caiotomas6@gmail.com)
