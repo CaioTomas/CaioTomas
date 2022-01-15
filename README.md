@@ -5,3 +5,5 @@
 - 👯 I’m looking to collaborate on anything that involves at least a little bit of math
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email](caiotomas6@gmail.com)
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTomas&layout=compact&theme=highcontrast'>
