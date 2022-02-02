@@ -4,17 +4,20 @@ I am currently a undergraduate student of Mathematics at the University of Bras�
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with:
 
-- 🔭 I’m currently working on Math, LaTeX and Python
-- 🌱 I’m currently learning lots of Math, LaTeX, Python and R
+- 🔭 I’m currently working on <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-238020?style=for-the-badge&logo=LaTeX&logoColor=yellow">
+- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red"> <img align="center" src="https://img.shields.io/badge/TeX-238020?style=for-the-badge&logo=LaTeX&logoColor=yellow">
 - 🤝🏼 I’m looking to collaborate on anything that involves at least a little bit of math
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Email](caiotomas6@gmail.com)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/caiotomas/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:caotomas6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/caiotp"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-You can view my [LinkedIn profile](https://www.linkedin.com/in/caiotomas/?locale=en_US) (in English) and my [curriculum Lattes](http://lattes.cnpq.br/3803046005556999). 
+You can also view my [curriculum Lattes](http://lattes.cnpq.br/3803046005556999).
 
 ------------------------------------------------------
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTomas&layout=compact&theme=highcontrast'>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiotomas&show_icons=true&theme=highcontrast&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTomas&layout=compact&langs_count7&theme=highcontrast"/>
+</div>
 
 ------------------------------------------------------
 
@@ -24,10 +27,10 @@ Atualmente sou estudante de graduação em Matemática na Universidade de Brasí
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido:
 
-- 🔭 Trabalho com Matemática, LaTeX, Python e R
-- 🌱 Estou aprendendo muito Python, LaTeX, R e Matemática
+- 🔭 Trabalho com <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-238020?style=for-the-badge&logo=LaTeX&logoColor=yellow">
+- 🌱 Estou aprendendo <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red"> <img align="center" src="https://img.shields.io/badge/TeX-238020?style=for-the-badge&logo=LaTeX&logoColor=yellow">
 - 🤝🏼 Busco colaborar em tudo que envolva Matemática
 - 💬 Me pergunte qualquer coisa!
-- 📫 Como me contatar: [Email](caiotomas6@gmail.com)
+- 📫 Como me contatar: <a href="https://www.linkedin.com/in/caio-tom%C3%A1s-18aa401b1/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:caotomas6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/caiotp"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-Você pode ver o meu [perfil no LinkedIn](https://www.linkedin.com/in/caiotomas/) (em Português) e o meu [currículo Lattes](http://lattes.cnpq.br/3803046005556999).
+Você também pode ver o meu [curriculum Lattes](http://lattes.cnpq.br/3803046005556999).
