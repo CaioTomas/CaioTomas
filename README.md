@@ -14,7 +14,7 @@ I'm really passionated about math and science. If you let me, I'll speak hours n
 
 <!-- - 💬 Ask me about anything! -->
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/caiotomas/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:caotomas6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/caiotp"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/caiotomas/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:caotomas6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/caiotp"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 - I have also done other research projects while an undergrad at UnB. You can check them in detail at my [curriculum Lattes](http://lattes.cnpq.br/3803046005556999). Here is the list of them, with the topics of research resumed for the sake of brevity and ordered older to recent:
 
@@ -51,7 +51,7 @@ Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar f
 
 <!-- - 💬 Me pergunte qualquer coisa! -->
 
-- 📫 Como me contatar: <a href="https://www.linkedin.com/in/caio-tom%C3%A1s-18aa401b1/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:caotomas6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/caiotp"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+- 📫 Como me contatar <a href="https://www.linkedin.com/in/caio-tom%C3%A1s-18aa401b1/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:caotomas6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/caiotp"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 - Eu também já fiz alguns projetos de pesquisa enquanto estudante de graduação na UnB. Você pode vê-los em detalhe no meu [curriculum Lattes](http://lattes.cnpq.br/3803046005556999). Eu apenas os listo aqui, com os temas de pesquisa resumidos e ordenados do mais antigo para o mais recente:
 
