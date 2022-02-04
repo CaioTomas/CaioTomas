@@ -1,6 +1,6 @@
 ### Hi there! My name is Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently a undergraduate student of Mathematics at the University of Brasília and a Data Science intern at IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados. 
+I am currently an undergraduate student of Mathematics at the University of Brasília and a Data Science intern at IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados. 
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with:
 
