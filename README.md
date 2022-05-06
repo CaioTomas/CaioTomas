@@ -4,7 +4,7 @@ I am currently an undergraduate student of Mathematics at the University of Bras
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with:
 
-- 🔭 I'm currently on a research project on the compression of a granular layer composed of repelling magnetic particles, under the orientation of professor Yuri Dumaresq Sobral (here's his [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [ResearchGate profile](https://www.researchgate.net/profile/Yuri-Sobral) and [website](http://yuri.mat.unb.br/)).
+- 🔭 :magnet: I'm currently on a research project on the compression of a granular layer composed of repelling magnetic particles, under the orientation of professor Yuri Dumaresq Sobral (here's his [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [ResearchGate profile](https://www.researchgate.net/profile/Yuri-Sobral) and [website](http://yuri.mat.unb.br/)).
 
 - :computer: I’m currently working on <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black">
 
@@ -42,7 +42,7 @@ Atualmente sou estudante de graduação em Matemática na Universidade de Brasí
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido:
 
-- 🔭 Atualmente estou em um projeto de pesquisa sobre a compressão de uma camada granular de partículas magnéticas repelentes, sob a orientação do professor Yuri Dumaresq Sobral (você pode ver o seu [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [perfil no ResearchGate](https://www.researchgate.net/profile/Yuri-Sobral) ou [website](http://yuri.mat.unb.br/) para mais informações).
+- 🔭 :magnet: Atualmente estou em um projeto de pesquisa sobre a compressão de uma camada granular de partículas magnéticas repelentes, sob a orientação do professor Yuri Dumaresq Sobral (você pode ver o seu [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [perfil no ResearchGate](https://www.researchgate.net/profile/Yuri-Sobral) ou [website](http://yuri.mat.unb.br/) para mais informações).
 
 - :computer: Trabalho com <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black">
 
