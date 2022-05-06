@@ -8,7 +8,8 @@ I'm really passionated about math and science. If you let me, I'll speak hours n
 
 - :computer: I’m currently working on <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black">
 
-- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red">
+- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> 
+<!-- <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red"> -->
 
 <!-- - 🤝🏼  I’m looking to collaborate on anything that involves at least a little bit of math -->
 
@@ -45,7 +46,8 @@ Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar f
 
 - :computer: Trabalho com <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black">
 
-- 🌱 Estou aprendendo <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red">
+- 🌱 Estou aprendendo <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> 
+<!-- <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red"> -->
 
 <!-- - 🤝🏼 Busco colaborar em tudo que envolva Matemática -->
 
