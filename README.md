@@ -1,6 +1,6 @@
 ### Hi there! My name is Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently an undergraduate student of Mathematics at the University of Brasília and a Data Science intern at IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados. 
+I am currently an aspiring Master's student of Applied Mathematics at the University of Brasília and a Business Intelligence Analyst at Núcleo de Mídia Banco do Brasil (NMBB). 
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with:
 
@@ -38,7 +38,7 @@ I'm really passionated about math and science. If you let me, I'll speak hours n
 
 ### Olá! Meu nome é Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Atualmente sou estudante de graduação em Matemática na Universidade de Brasília e estagiário de Data Science no IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados.
+Atualmente sou mestrando em Matemática Aplicada na Universidade de Brasília e Analista de Business Intelligence no Núcleo de Mídia Banco do Brasil (NMBB).
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido:
 
