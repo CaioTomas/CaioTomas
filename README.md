@@ -33,7 +33,8 @@ I'm really passionated about math and science. If you let me, I'll speak hours n
 <img align="left" alt="Google BigQuery" width="26px" src="gbq.png" />
 <img align="left" alt="Google Cloud Platform" width="26px" src="gcp.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />
-<img align="left" alt="Latex" width="26px" src="latex.png" />
+<img align="left" alt="LaTeX" width="26px" src="latex.png" />
+<img align="left" alt="Gnuplot" width="26px" src="gnuplot.png" />
 
 </br>
 
@@ -95,7 +96,8 @@ Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar f
 <img align="left" alt="Google BigQuery" width="26px" src="gbq.png" />
 <img align="left" alt="Google Cloud Platform" width="26px" src="gcp.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />
-<img align="left" alt="Latex" width="26px" src="latex.png" />
+<img align="left" alt="LaTeX" width="26px" src="latex.png" />
+<img align="left" alt="Gnuplot" width="26px" src="gnuplot.png" />
 
 </br>
 
