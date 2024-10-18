@@ -1,6 +1,6 @@
 ### Hi there! My name is Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently an aspiring Master's student of Applied Mathematics at the University of Brasília and a Business Intelligence Analyst at Núcleo de Mídia Banco do Brasil (NMBB). 
+I am currently a Master's student of Applied Mathematics at the University of Brasília and an Analyst at Serpro (Federal Service of Data Processing). 
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with can be find below.
 
