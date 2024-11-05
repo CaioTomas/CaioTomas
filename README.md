@@ -4,6 +4,8 @@ I am currently a Master's student of Applied Mathematics at the University of Br
 
 I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics! A brief view on what I am currently learning/involved with can be find below.
 
+I'm interested in Fluid Dynamics/Mechanics, Granular Materials, Data Science and *data-driven* approaches to applied problems.
+
 ---
 
 ### Current research
@@ -74,9 +76,11 @@ I have also done other research projects while an undergrad at UnB. You can chec
 
 ### Olá! Meu nome é Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Atualmente sou mestrando em Matemática Aplicada na Universidade de Brasília e Analista de Business Intelligence no Núcleo de Mídia Banco do Brasil (NMBB).
+Atualmente sou mestrando em Matemática Aplicada na Universidade de Brasília e Analista de TI no Serviço Federal de Processamento de Dados (Serpro).
 
 Sou apaixonado por Matemática e ciência. Se deixar, eu passo horas sem parar falando dessas coisas! Um visão rápida do que atualmente estou aprendendo/envolvido pode ser encontrada a seguir.
+
+Me interesso por Dinâmica/Mecânica dos Fluidos, Materiais Granulares, Ciência de Dados e abordagens *data-driven* a problemas de matemática aplicada.
 
 ---
 
